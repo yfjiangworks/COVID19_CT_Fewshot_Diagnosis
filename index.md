@@ -1,5 +1,5 @@
 <p align="center">
-  <img max-width: 70% height=auto src="resources/fig1.png">
+  <img style="height:70%;" src="resources/fig1.png">
 </p>
 <p align="center">
 Demonstration of domain shift problem and proposed solution. (A) Model trained on a large synthetic dataset then tested on real data; (B) Model trained on a large real dataset then tested on real data; (C) The proposed model trained on a large synthetic dataset and few real data, then evaluated on real data.
