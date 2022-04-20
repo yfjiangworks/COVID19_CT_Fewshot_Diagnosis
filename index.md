@@ -11,7 +11,9 @@ Coronavirus disease 2019 (COVID-19) is a Public Health Emergency of Internationa
 
 # Overview
 
-![Image](resources/fig2.png)
+<p align="center">
+  <img width="70%" height="auto" src="resources/fig2.png">
+</p>
 <p align="center">
 Overview of the proposed method.
 </p>
@@ -20,7 +22,9 @@ In this work, we propose a novel Siamese network based model for a few-shot COVI
 
 
 # Boosted COVID-19 diagnostic performance
-![Image](resources/fig3.png)
+<p align="center">
+  <img width="50%" height="auto" src="resources/fig3.png">
+</p>
 <p align="center">
 Diagnostic performance comparison of few-shot COVID-19 CT diagnostic task (n-shot: 5-shot, feature extractor: Xception, the best evaluation score is marked in bold. Higher number of the metrics is better.
 </p>
